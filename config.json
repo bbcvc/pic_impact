@@ -1,0 +1,130 @@
+{
+  "site": {
+    "url": "https://pic.cl96.top",
+    "title": "chenglong's 摄影📹",
+    "description": "这是一个独立摄影博客，记录了一些摄影作品。",
+    "keywords": "摄影,照片,相机,镜头,摄影作品,尼康,上海,徒步",
+    "lang": "zh-CN",
+    "favicon": "/favicon.ico",
+    "appleTouchIcon": "/apple-touch-icon.png"
+  },
+  "author": {
+    "name": "chenglong",
+    "twitterId": "@lxchapu",
+    "avatar": "https://avatars.githubusercontent.com/u/52622877?v=4"
+  },
+  "hero": {
+    "sayHi": "Hi, 我是",
+    "name": "chenglong",
+    "bio": "这是一个独立摄影博客，记录了一些摄影作品。",
+    "description": "徒步 | 摄影 | 旅行",
+    "socials": [
+      {
+        "name": "小红书",
+        "icon": "xhs",
+        "url": "https://www.xiaohongshu.com/user/profile/5baad4f20d0ce80001a42d84",
+        "mobil": "xhsdiscovery://user/profile/5baad4f20d0ce80001a42d84",
+        "color": "rgb(212, 70, 56)"
+      },
+      {
+        "name": "微博",
+        "icon": "weibo",
+        "url": "https://weibo.com/u/3178584121",
+        "mobil": "sinaweibo://userinfo?uid=3178584121",
+        "color": "rgb(36, 46, 54)"
+      },
+      {
+        "name": "instagram",
+        "icon": "instagram",
+        "url": "https://www.instagram.com/beetofday",
+        "mobil": "instagram://user?username=beetofday",
+        "color": "rgb(24, 23, 23)"
+      },
+      {
+        "name": "b站",
+        "icon": "bilibili",
+        "url": "https://space.bilibili.com/87795515",
+        "mobil": "bilibili://space/87795515",
+        "color": "rgb(0, 140, 255)"
+      }
+    ],
+    "yiyan": "当第一颗卫星飞向大气层外，我们便以为自己终有一日会征服宇宙。"
+  },
+  "color": {
+    "accent": [
+      { "light": "#F55555", "dark": "#FCCF31" },
+      { "light": "#0396FF", "dark": "#ABDCFF" },
+      { "light": "#fb7287", "dark": "#99D8CF" },
+      { "light": "#F072B6", "dark": "#FFF886" },
+      { "light": "#9F44D3", "dark": "#E2B0FF" },
+      { "light": "#FF6666", "dark": "#A1CCD1" },
+      { "light": "#F6416C", "dark": "#838BC6" },
+      { "light": "#32CCBC", "dark": "#90F7EC" },
+      { "light": "#33A6B8", "dark": "#79F1A4" },
+      { "light": "#F55555", "dark": "#FCCF31" }
+    ],
+    "bg": {
+      "primary": { "light": "#ffffff", "dark": "#1c1c1e" },
+      "secondary": { "light": "#f4f4f5", "dark": "#27272a" }
+    },
+    "text": {
+      "primary": { "light": "#373a3c", "dark": "#ffffff" },
+      "secondary": { "light": "#71717a", "dark": "#d1d5db" }
+    },
+    "border": {
+      "primary": { "light": "#e4e4e7", "dark": "#3f3f46" }
+    }
+  },
+  "menus": [
+    {
+      "name": "首页",
+      "link": "/",
+      "icon": "icon-pantone"
+    },
+    {
+      "name": "归档",
+      "link": "/archives",
+      "icon": "icon-archive"
+    },
+    {
+      "name": "项目",
+      "link": "/projects",
+      "icon": "icon-flask"
+    },
+    {
+      "name": "关于",
+      "link": "/about",
+      "icon": "icon-ghost"
+    },
+    {
+      "name": "友链",
+      "link": "/friends",
+      "icon": "icon-hearts"
+    }
+  ],
+  "posts": {
+    "perPage": 10
+  },
+  "footer": {
+    "startTime": "2024-04-14T00:00:00Z"
+  },
+  "waline": {
+    "serverURL": "https://waline.lxchapu.com"
+  },
+  "sponsor": {
+    "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
+  },
+  "analytics": {
+    "enable": false,
+    "google": {
+      "measurementId": ""
+    },
+    "umami": {
+      "serverUrl": "",
+      "websiteId": ""
+    },
+    "microsoftClarity": {
+      "projectId": ""
+    }
+  }
+}
