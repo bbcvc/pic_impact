@@ -19,6 +19,8 @@ const itemVariants = {
   },
 }
 
+const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
+
 function SocialList({ classNames }: { classNames?: string }) {
   return (
     <>
@@ -37,7 +39,7 @@ function SocialList({ classNames }: { classNames?: string }) {
           <motion.li key={social.name} variants={itemVariants}>
             <a
               className='relative size-9 text-white text-xl flex justify-center items-center group'
-              href={social.url}
+              href={isMobile ? social.mobil : social.url}
               title={social.name}
               target='_blank'
               rel='noopener noreferrer'
