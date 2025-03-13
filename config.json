@@ -23,7 +23,7 @@
         "name": "小红书",
         "icon": "xhs",
         "url": "https://www.xiaohongshu.com/user/profile/5baad4f20d0ce80001a42d84",
-        "mobil": "xhsdiscovery://user/profile/5baad4f20d0ce80001a42d84",
+        "mobil": "xhsdiscover://user/5baad4f20d0ce80001a42d84",
         "color": "rgb(212, 70, 56)"
       },
       {

@@ -19,9 +19,9 @@ const itemVariants = {
   },
 }
 
-const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
-
 function SocialList({ classNames }: { classNames?: string }) {
+  const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
+
   return (
     <>
       <motion.ul
